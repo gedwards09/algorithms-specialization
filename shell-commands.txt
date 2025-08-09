@@ -1,0 +1,10 @@
+Usage:
+to run tests (from stanford-algs/tester/python3 directory)
+python3 tester.py [SOLUTION.py] [TEST_DIRECTORY]
+solution:
+../../../algorithms-specialization/course-[NUMBER]/[HW-NUMBER]/[FILENAME].py
+test directory:
+../../testCases/course[NUMBER]/assignment[NUMBER][FILENAME]
+
+To run directly from command line (from tester/python3 directory)
+python3 [SOLUTION.py] [FILENAME]
